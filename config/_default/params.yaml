@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
-day_night: false
-font: native
+theme: mr_robot
+day_night: true
+font: classic
 font_size: L
 
 # SEO
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: info@sci-fi.ai
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall

@@ -1,9 +1,9 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Professors win big grant with big money to conduct research on robots
+date: 2021-12-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Congratulations to Professors for winning the super big grant with big money.
 
 <!--more-->
 

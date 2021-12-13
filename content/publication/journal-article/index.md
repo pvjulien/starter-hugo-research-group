@@ -1,8 +1,8 @@
 ---
 title: "An example journal article"
 authors:
-- admin
-- Robert Ford
+- isaac-asimov
+- wall-e
 author_notes:
 - "Equal contribution"
 - "Equal contribution"

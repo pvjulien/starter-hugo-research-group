@@ -2,8 +2,8 @@
 title: "An example conference paper"
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- MB-223
+date: "2020-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
